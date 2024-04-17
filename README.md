@@ -1,5 +1,8 @@
 # Neumorphic Login Form
 
+Github Pages Link:
+https://tascraig.github.io/neophoric-form-design/
+
 A simple neumorphic-styled login form with HTML and CSS.
 
 ## Description
@@ -18,7 +21,7 @@ To use this project, simply download or clone the repository and open the `index
 
 - [Font Awesome](https://fontawesome.com/) for the SVG icons used in the form fields.
 - [Google Fonts](https://fonts.google.com/) for the "Lato" font used in the project.
-- [Tech Circle](#) for the logo image used in the project.
+
 
 ## License
 
